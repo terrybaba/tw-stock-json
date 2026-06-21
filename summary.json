@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-21 14:23",
+  "update_time": "2026-06-21 15:14",
   "top_5": [
     {
       "code": "4961",
@@ -42782,7 +42782,7 @@
         "desc": "體質偏弱,小心",
         "roe": null,
         "debt_ratio": null,
-        "revenue_yoy": NaN,
+        "revenue_yoy": null,
         "eps_recent": [
           2.14,
           2.74,
@@ -44002,7 +44002,7 @@
         "desc": "體質偏弱,小心",
         "roe": null,
         "debt_ratio": null,
-        "revenue_yoy": NaN,
+        "revenue_yoy": null,
         "eps_recent": [
           0.65,
           0.8,
