@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-19 19:09",
+  "update_time": "2026-06-21 14:23",
   "top_5": [
     {
       "code": "4961",
@@ -41,9 +41,9 @@
       "week_cci": 60.9,
       "day_cci": 35.4,
       "hour_cci": 42.4,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 60.9,
         "day_cci": 35.4,
         "hour_cci": 42.4,
@@ -61,19 +61,34 @@
         "atr": 0.53
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 水泥（2/2 100%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 水泥(2/2 100%)",
+        "suggested_position": "24%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "24%",
         "timing": "分批建倉",
         "note": "CCI 35.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 7,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -0.1,
+        "eps_recent": [
+          0.1,
+          -0.32,
+          -1.36,
+          0.0
+        ]
       },
       "history": [
         {
@@ -636,9 +651,9 @@
       "week_cci": 109.5,
       "day_cci": 117.6,
       "hour_cci": 82.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 109.5,
         "day_cci": 117.6,
         "hour_cci": 82.5,
@@ -656,19 +671,34 @@
         "atr": 0.69
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 水泥（2/2 100%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 水泥(2/2 100%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 117.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -1.2,
+        "eps_recent": [
+          0.56,
+          0.58,
+          1.13,
+          0.88
+        ]
       },
       "history": [
         {
@@ -1251,8 +1281,8 @@
         "atr": 0.24
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 食品（2/4 50%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 食品(2/4 50%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -1264,6 +1294,21 @@
         "timing": "分批建倉",
         "note": "CCI 87.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 22,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -5.1,
+        "eps_recent": [
+          0.2,
+          -0.03,
+          0.16,
+          0.05
+        ]
       },
       "history": [
         {
@@ -1846,8 +1891,8 @@
         "atr": 0.85
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 食品（2/4 50%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 食品(2/4 50%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -1859,6 +1904,21 @@
         "timing": "分批建倉",
         "note": "CCI -7.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -10.0,
+        "eps_recent": [
+          0.49,
+          0.53,
+          0.64,
+          0.06
+        ]
       },
       "history": [
         {
@@ -2441,19 +2501,34 @@
         "atr": 1.26
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 食品（2/4 50%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 食品(2/4 50%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 45.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 10.2,
+        "eps_recent": [
+          0.94,
+          1.66,
+          0.93,
+          0.68
+        ]
       },
       "history": [
         {
@@ -3016,15 +3091,15 @@
       "week_cci": 146.5,
       "day_cci": 37.6,
       "hour_cci": 3.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 146.5,
         "day_cci": 37.6,
         "hour_cci": 3.6,
         "day_slope": 0.1,
         "tech_score": 100,
-        "volume_status": "量能放大（1.6x）",
+        "volume_status": "量能放大(1.6x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -3036,19 +3111,34 @@
         "atr": 1.59
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 食品（2/4 50%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 食品(2/4 50%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 37.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 2.7,
+        "eps_recent": [
+          1.15,
+          0.52,
+          1.06,
+          0.97
+        ]
       },
       "history": [
         {
@@ -3611,15 +3701,15 @@
       "week_cci": 45.3,
       "day_cci": 81.9,
       "hour_cci": 191.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 45.3,
         "day_cci": 81.9,
         "hour_cci": 191.5,
         "day_slope": 0.7,
         "tech_score": 100,
-        "volume_status": "量能放大（4.7x）",
+        "volume_status": "量能放大(4.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -3631,19 +3721,34 @@
         "atr": 2.3
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 塑膠（3/3 100%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 塑膠(3/3 100%)",
+        "suggested_position": "24%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "24%",
         "timing": "分批建倉",
         "note": "CCI 81.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 17,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 0.7,
+        "eps_recent": [
+          0.51,
+          -0.45,
+          -0.09,
+          -1.04
+        ]
       },
       "history": [
         {
@@ -4206,15 +4311,15 @@
       "week_cci": 256.1,
       "day_cci": 208.4,
       "hour_cci": 159.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 256.1,
         "day_cci": 208.4,
         "hour_cci": 159.9,
         "day_slope": 5.2,
         "tech_score": 100,
-        "volume_status": "量能放大（1.6x）",
+        "volume_status": "量能放大(1.6x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -4226,19 +4331,34 @@
         "atr": 9.25
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 塑膠（3/3 100%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 塑膠(3/3 100%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 208.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 31.4,
+        "eps_recent": [
+          1.8,
+          0.62,
+          0.41,
+          -0.52
+        ]
       },
       "history": [
         {
@@ -4801,9 +4921,9 @@
       "week_cci": 120.2,
       "day_cci": 61.7,
       "hour_cci": 113.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 120.2,
         "day_cci": 61.7,
         "hour_cci": 113.6,
@@ -4821,19 +4941,34 @@
         "atr": 3.24
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 塑膠（3/3 100%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 塑膠(3/3 100%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 61.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 35,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 15.5,
+        "eps_recent": [
+          1.07,
+          -0.05,
+          0.3,
+          -1.16
+        ]
       },
       "history": [
         {
@@ -5396,9 +5531,9 @@
       "week_cci": 144.7,
       "day_cci": 53.0,
       "hour_cci": 158.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 144.7,
         "day_cci": 53.0,
         "hour_cci": 158.2,
@@ -5416,19 +5551,34 @@
         "atr": 13.57
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 機電（3/4 75%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 機電(3/4 75%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 53.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 8.4,
+        "eps_recent": [
+          2.79,
+          0.81,
+          1.41,
+          1.71
+        ]
       },
       "history": [
         {
@@ -6011,8 +6161,8 @@
         "atr": 4.64
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 機電（3/4 75%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 機電(3/4 75%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -6024,6 +6174,21 @@
         "timing": "分批建倉",
         "note": "CCI -65.6",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 10.6,
+        "eps_recent": [
+          0.51,
+          0.44,
+          0.75,
+          0.69
+        ]
       },
       "history": [
         {
@@ -6586,9 +6751,9 @@
       "week_cci": 137.6,
       "day_cci": 42.3,
       "hour_cci": 161.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 137.6,
         "day_cci": 42.3,
         "hour_cci": 161.9,
@@ -6606,19 +6771,34 @@
         "atr": 8.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 機電（3/4 75%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 機電(3/4 75%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 42.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 3.6,
+        "eps_recent": [
+          1.94,
+          2.08,
+          2.31,
+          1.9
+        ]
       },
       "history": [
         {
@@ -7181,15 +7361,15 @@
       "week_cci": 28.4,
       "day_cci": 169.2,
       "hour_cci": 214.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 28.4,
         "day_cci": 169.2,
         "hour_cci": 214.5,
         "day_slope": 8.5,
         "tech_score": 75,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -7201,19 +7381,34 @@
         "atr": 76.07
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 機電（3/4 75%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 機電(3/4 75%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 169.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 40.4,
+        "eps_recent": [
+          13.35,
+          11.64,
+          10.5,
+          10.19
+        ]
       },
       "history": [
         {
@@ -7784,7 +7979,7 @@
         "hour_cci": 108.0,
         "day_slope": 0.0,
         "tech_score": 75,
-        "volume_status": "量能放大（3.8x）",
+        "volume_status": "量能放大(3.8x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -7796,8 +7991,8 @@
         "atr": 0.4
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 鋼鐵（0/3 0%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 鋼鐵(0/3 0%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -7809,6 +8004,21 @@
         "timing": "分批建倉",
         "note": "CCI 15.3",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 10,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 2.2,
+        "eps_recent": [
+          -0.16,
+          -0.02,
+          -0.16,
+          -0.12
+        ]
       },
       "history": [
         {
@@ -8391,8 +8601,8 @@
         "atr": 1.57
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 鋼鐵（0/3 0%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 鋼鐵(0/3 0%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -8404,6 +8614,21 @@
         "timing": "分批建倉",
         "note": "CCI -130.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 42.5,
+        "eps_recent": [
+          1.17,
+          0.8,
+          1.0,
+          0.42
+        ]
       },
       "history": [
         {
@@ -8986,8 +9211,8 @@
         "atr": 17.04
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 鋼鐵（0/3 0%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 鋼鐵(0/3 0%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -8999,6 +9224,21 @@
         "timing": "分批建倉",
         "note": "CCI -37.0",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 28.2,
+        "eps_recent": [
+          1.64,
+          1.3,
+          1.26,
+          0.38
+        ]
       },
       "history": [
         {
@@ -9569,7 +9809,7 @@
         "hour_cci": -151.1,
         "day_slope": -0.7,
         "tech_score": 0,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -9581,8 +9821,8 @@
         "atr": 1.45
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -9594,6 +9834,21 @@
         "timing": "分批建倉",
         "note": "CCI -212.0",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 1.2,
+        "eps_recent": [
+          0.57,
+          0.27,
+          0.5,
+          0.28
+        ]
       },
       "history": [
         {
@@ -10176,19 +10431,34 @@
         "atr": 1.27
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 汽車（1/3 33%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 汽車(1/3 33%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 27.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.9,
+        "eps_recent": [
+          1.18,
+          1.57,
+          1.47,
+          1.28
+        ]
       },
       "history": [
         {
@@ -10771,8 +11041,8 @@
         "atr": 1.24
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 汽車（1/3 33%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 汽車(1/3 33%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -10784,6 +11054,21 @@
         "timing": "分批建倉",
         "note": "CCI -27.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -6.2,
+        "eps_recent": [
+          1.37,
+          1.18,
+          1.55,
+          1.51
+        ]
       },
       "history": [
         {
@@ -11354,7 +11639,7 @@
         "hour_cci": 8.4,
         "day_slope": -1.4,
         "tech_score": 25,
-        "volume_status": "量能放大（5.4x）",
+        "volume_status": "量能放大(5.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -11366,8 +11651,8 @@
         "atr": 17.71
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 汽車（1/3 33%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 汽車(1/3 33%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -11379,6 +11664,21 @@
         "timing": "分批建倉",
         "note": "CCI -14.9",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 15.7,
+        "eps_recent": [
+          7.95,
+          9.07,
+          10.03,
+          7.1
+        ]
       },
       "history": [
         {
@@ -11961,8 +12261,8 @@
         "atr": 13.64
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -11974,6 +12274,21 @@
         "timing": "分批建倉",
         "note": "CCI -62.8",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 29.6,
+        "eps_recent": [
+          1.66,
+          1.7,
+          2.05,
+          1.39
+        ]
       },
       "history": [
         {
@@ -12536,9 +12851,9 @@
       "week_cci": 112.6,
       "day_cci": 85.1,
       "hour_cci": 88.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 112.6,
         "day_cci": 85.1,
         "hour_cci": 88.1,
@@ -12556,19 +12871,34 @@
         "atr": 10.71
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 85.1",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 17.8,
+        "eps_recent": [
+          1.29,
+          0.8,
+          1.2,
+          0.71
+        ]
       },
       "history": [
         {
@@ -13151,8 +13481,8 @@
         "atr": 128.57
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -13164,6 +13494,21 @@
         "timing": "分批建倉",
         "note": "CCI -86.6",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 43.7,
+        "eps_recent": [
+          7.91,
+          6.67,
+          7.16,
+          5.37
+        ]
       },
       "history": [
         {
@@ -13746,8 +14091,8 @@
         "atr": 2.78
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -13759,6 +14104,21 @@
         "timing": "分批建倉",
         "note": "CCI -50.4",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -8.1,
+        "eps_recent": [
+          0.35,
+          0.2,
+          0.3,
+          0.2
+        ]
       },
       "history": [
         {
@@ -14341,8 +14701,8 @@
         "atr": 12.32
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -14354,6 +14714,21 @@
         "timing": "分批建倉",
         "note": "CCI -40.2",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 39.6,
+        "eps_recent": [
+          3.56,
+          3.23,
+          4.15,
+          3.19
+        ]
       },
       "history": [
         {
@@ -14936,8 +15311,8 @@
         "atr": 2.73
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -14949,6 +15324,21 @@
         "timing": "分批建倉",
         "note": "CCI -45.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 22.3,
+        "eps_recent": [
+          0.45,
+          0.32,
+          0.45,
+          0.11
+        ]
       },
       "history": [
         {
@@ -15511,15 +15901,15 @@
       "week_cci": 169.4,
       "day_cci": 169.0,
       "hour_cci": 129.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 169.4,
         "day_cci": 169.0,
         "hour_cci": 129.5,
         "day_slope": 35.8,
         "tech_score": 100,
-        "volume_status": "量能放大（1.8x）",
+        "volume_status": "量能放大(1.8x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -15531,19 +15921,34 @@
         "atr": 81.14
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 169.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 47.5,
+        "eps_recent": [
+          3.9,
+          3.29,
+          3.1,
+          9.74
+        ]
       },
       "history": [
         {
@@ -16106,9 +16511,9 @@
       "week_cci": 94.0,
       "day_cci": 76.3,
       "hour_cci": 104.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 94.0,
         "day_cci": 76.3,
         "hour_cci": 104.8,
@@ -16126,19 +16531,34 @@
         "atr": 56.79
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 76.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 30.1,
+        "eps_recent": [
+          22.08,
+          19.51,
+          17.44,
+          15.36
+        ]
       },
       "history": [
         {
@@ -16701,9 +17121,9 @@
       "week_cci": 98.8,
       "day_cci": 73.5,
       "hour_cci": 105.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 98.8,
         "day_cci": 73.5,
         "hour_cci": 105.8,
@@ -16721,19 +17141,34 @@
         "atr": 10.21
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 73.5",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 27,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 175.8,
+        "eps_recent": [
+          0.9,
+          -0.15,
+          -0.47,
+          -0.69
+        ]
       },
       "history": [
         {
@@ -17296,9 +17731,9 @@
       "week_cci": 189.0,
       "day_cci": 167.6,
       "hour_cci": 128.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 189.0,
         "day_cci": 167.6,
         "hour_cci": 128.9,
@@ -17316,19 +17751,34 @@
         "atr": 14.82
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 167.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 182.0,
+        "eps_recent": [
+          2.25,
+          0.76,
+          0.65,
+          -0.29
+        ]
       },
       "history": [
         {
@@ -17891,9 +18341,9 @@
       "week_cci": 168.0,
       "day_cci": 111.7,
       "hour_cci": 85.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 168.0,
         "day_cci": 111.7,
         "hour_cci": 85.5,
@@ -17911,19 +18361,34 @@
         "atr": 4.31
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 111.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 129.7,
+        "eps_recent": [
+          1.77,
+          1.66,
+          1.54,
+          0.79
+        ]
       },
       "history": [
         {
@@ -18486,15 +18951,15 @@
       "week_cci": 66.3,
       "day_cci": 11.7,
       "hour_cci": 160.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 66.3,
         "day_cci": 11.7,
         "hour_cci": 160.1,
         "day_slope": -0.2,
         "tech_score": 75,
-        "volume_status": "量能放大（1.9x）",
+        "volume_status": "量能放大(1.9x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -18506,19 +18971,34 @@
         "atr": 12.64
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 11.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 36.8,
+        "eps_recent": [
+          1.22,
+          0.8,
+          0.48,
+          -0.23
+        ]
       },
       "history": [
         {
@@ -19101,8 +19581,8 @@
         "atr": 2.64
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -19114,6 +19594,21 @@
         "timing": "分批建倉",
         "note": "CCI -108.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 36.5,
+        "eps_recent": [
+          0.23,
+          0.36,
+          0.37,
+          0.36
+        ]
       },
       "history": [
         {
@@ -19696,8 +20191,8 @@
         "atr": 5.06
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -19709,6 +20204,21 @@
         "timing": "分批建倉",
         "note": "CCI -49.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 35.3,
+        "eps_recent": [
+          0.68,
+          0.57,
+          0.76,
+          0.61
+        ]
       },
       "history": [
         {
@@ -20291,8 +20801,8 @@
         "atr": 44.36
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -20304,6 +20814,21 @@
         "timing": "分批建倉",
         "note": "CCI -63.4",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 9.3,
+        "eps_recent": [
+          13.19,
+          15.36,
+          14.21,
+          13.2
+        ]
       },
       "history": [
         {
@@ -20886,8 +21411,8 @@
         "atr": 165.71
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -20899,6 +21424,21 @@
         "timing": "分批建倉",
         "note": "CCI -40.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 133.1,
+        "eps_recent": [
+          9.12,
+          6.03,
+          11.99,
+          4.63
+        ]
       },
       "history": [
         {
@@ -21481,8 +22021,8 @@
         "atr": 17.25
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -21494,6 +22034,21 @@
         "timing": "分批建倉",
         "note": "CCI -51.4",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.0,
+        "eps_recent": [
+          7.86,
+          4.43,
+          4.56,
+          4.55
+        ]
       },
       "history": [
         {
@@ -22056,9 +22611,9 @@
       "week_cci": 242.1,
       "day_cci": 293.2,
       "hour_cci": 210.3,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 242.1,
         "day_cci": 293.2,
         "hour_cci": 210.3,
@@ -22076,19 +22631,34 @@
         "atr": 49.71
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 293.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 21.9,
+        "eps_recent": [
+          8.44,
+          5.18,
+          6.69,
+          7.62
+        ]
       },
       "history": [
         {
@@ -22671,8 +23241,8 @@
         "atr": 22.96
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -22684,6 +23254,21 @@
         "timing": "分批建倉",
         "note": "CCI -24.9",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 94.4,
+        "eps_recent": [
+          5.5,
+          5.75,
+          4.26,
+          4.37
+        ]
       },
       "history": [
         {
@@ -23266,8 +23851,8 @@
         "atr": 6.21
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -23279,6 +23864,21 @@
         "timing": "分批建倉",
         "note": "CCI -139.2",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -11.0,
+        "eps_recent": [
+          2.0,
+          1.04,
+          2.87,
+          2.96
+        ]
       },
       "history": [
         {
@@ -23841,9 +24441,9 @@
       "week_cci": 63.0,
       "day_cci": 87.5,
       "hour_cci": 67.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 63.0,
         "day_cci": 87.5,
         "hour_cci": 67.6,
@@ -23861,19 +24461,34 @@
         "atr": 2.65
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 87.5",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 10.2,
+        "eps_recent": [
+          0.91,
+          1.26,
+          1.29,
+          0.73
+        ]
       },
       "history": [
         {
@@ -24436,9 +25051,9 @@
       "week_cci": 77.5,
       "day_cci": 19.1,
       "hour_cci": 132.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 77.5,
         "day_cci": 19.1,
         "hour_cci": 132.0,
@@ -24456,19 +25071,34 @@
         "atr": 23.68
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 19.1",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 32.1,
+        "eps_recent": [
+          3.85,
+          3.58,
+          3.2,
+          2.3
+        ]
       },
       "history": [
         {
@@ -25031,15 +25661,15 @@
       "week_cci": 164.0,
       "day_cci": 140.2,
       "hour_cci": 125.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 164.0,
         "day_cci": 140.2,
         "hour_cci": 125.2,
         "day_slope": 16.6,
         "tech_score": 100,
-        "volume_status": "量能放大（1.3x）",
+        "volume_status": "量能放大(1.3x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -25051,19 +25681,34 @@
         "atr": 31.5
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 140.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 730.1,
+        "eps_recent": [
+          8.41,
+          3.58,
+          0.5,
+          -1.32
+        ]
       },
       "history": [
         {
@@ -25626,9 +26271,9 @@
       "week_cci": 200.0,
       "day_cci": 56.4,
       "hour_cci": 28.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 200.0,
         "day_cci": 56.4,
         "hour_cci": 28.6,
@@ -25646,19 +26291,34 @@
         "atr": 2.5
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 56.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.4,
+        "eps_recent": [
+          1.3,
+          1.2,
+          1.22,
+          1.31
+        ]
       },
       "history": [
         {
@@ -26221,15 +26881,15 @@
       "week_cci": 94.0,
       "day_cci": 126.2,
       "hour_cci": 137.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 94.0,
         "day_cci": 126.2,
         "hour_cci": 137.8,
         "day_slope": 1.7,
         "tech_score": 100,
-        "volume_status": "量能放大（1.9x）",
+        "volume_status": "量能放大(1.9x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -26241,19 +26901,34 @@
         "atr": 7.42
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "24%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "24%",
         "timing": "分批建倉",
         "note": "CCI 126.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 17,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 3.1,
+        "eps_recent": [
+          0.06,
+          -0.07,
+          -0.11,
+          -0.07
+        ]
       },
       "history": [
         {
@@ -26816,9 +27491,9 @@
       "week_cci": 22.7,
       "day_cci": 56.7,
       "hour_cci": 164.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 22.7,
         "day_cci": 56.7,
         "hour_cci": 164.0,
@@ -26836,19 +27511,34 @@
         "atr": 3.58
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 56.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 26.1,
+        "eps_recent": [
+          0.7,
+          1.57,
+          1.14,
+          0.15
+        ]
       },
       "history": [
         {
@@ -27411,9 +28101,9 @@
       "week_cci": 94.4,
       "day_cci": 30.2,
       "hour_cci": 61.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 94.4,
         "day_cci": 30.2,
         "hour_cci": 61.8,
@@ -27431,19 +28121,34 @@
         "atr": 318.57
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 30.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.0,
+        "eps_recent": [
+          15.17,
+          14.4,
+          15.84,
+          17.5
+        ]
       },
       "history": [
         {
@@ -28006,15 +28711,15 @@
       "week_cci": 117.1,
       "day_cci": 106.5,
       "hour_cci": 207.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 117.1,
         "day_cci": 106.5,
         "hour_cci": 207.6,
         "day_slope": 2.0,
         "tech_score": 100,
-        "volume_status": "量能放大（3.7x）",
+        "volume_status": "量能放大(3.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -28026,19 +28731,34 @@
         "atr": 8.68
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 106.5",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 3.6,
+        "eps_recent": [
+          2.46,
+          2.57,
+          2.81,
+          1.24
+        ]
       },
       "history": [
         {
@@ -28621,8 +29341,8 @@
         "atr": 13.07
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 光電（6/7 86%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 光電(6/7 86%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -28634,6 +29354,21 @@
         "timing": "分批建倉",
         "note": "CCI -74.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 22,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -48.3,
+        "eps_recent": [
+          2.63,
+          3.88,
+          4.62,
+          -1.6
+        ]
       },
       "history": [
         {
@@ -29196,15 +29931,15 @@
       "week_cci": 87.3,
       "day_cci": 107.9,
       "hour_cci": 104.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 87.3,
         "day_cci": 107.9,
         "hour_cci": 104.5,
         "day_slope": 0.0,
         "tech_score": 100,
-        "volume_status": "量能放大（1.3x）",
+        "volume_status": "量能放大(1.3x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -29216,19 +29951,34 @@
         "atr": 0.15
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 107.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 2.0,
+        "eps_recent": [
+          0.06,
+          0.13,
+          0.06,
+          0.1
+        ]
       },
       "history": [
         {
@@ -29799,7 +30549,7 @@
         "hour_cci": 141.2,
         "day_slope": 0.1,
         "tech_score": 75,
-        "volume_status": "量能放大（1.7x）",
+        "volume_status": "量能放大(1.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -29811,8 +30561,8 @@
         "atr": 0.39
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -29824,6 +30574,21 @@
         "timing": "分批建倉",
         "note": "CCI 129.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 57.1,
+        "eps_recent": [
+          0.16,
+          0.13,
+          0.09,
+          0.1
+        ]
       },
       "history": [
         {
@@ -30386,15 +31151,15 @@
       "week_cci": 231.9,
       "day_cci": 123.2,
       "hour_cci": 123.7,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 231.9,
         "day_cci": 123.2,
         "hour_cci": 123.7,
         "day_slope": 0.4,
         "tech_score": 100,
-        "volume_status": "量能放大（2.9x）",
+        "volume_status": "量能放大(2.9x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -30406,19 +31171,34 @@
         "atr": 1.51
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 123.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 52.3,
+        "eps_recent": [
+          0.52,
+          0.89,
+          0.57,
+          0.46
+        ]
       },
       "history": [
         {
@@ -30981,9 +31761,9 @@
       "week_cci": 116.9,
       "day_cci": 78.4,
       "hour_cci": 57.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 116.9,
         "day_cci": 78.4,
         "hour_cci": 57.9,
@@ -31001,19 +31781,34 @@
         "atr": 1.49
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 78.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 2114.2,
+        "eps_recent": [
+          1.15,
+          1.15,
+          0.72,
+          0.24
+        ]
       },
       "history": [
         {
@@ -31576,9 +32371,9 @@
       "week_cci": 125.9,
       "day_cci": 97.0,
       "hour_cci": 79.3,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 125.9,
         "day_cci": 97.0,
         "hour_cci": 79.3,
@@ -31596,19 +32391,34 @@
         "atr": 1.08
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "24%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "24%",
         "timing": "分批建倉",
         "note": "CCI 97.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 7,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -86.4,
+        "eps_recent": [
+          -0.01,
+          -0.66,
+          -0.53,
+          2.98
+        ]
       },
       "history": [
         {
@@ -32171,9 +32981,9 @@
       "week_cci": 124.5,
       "day_cci": 74.6,
       "hour_cci": 81.7,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 124.5,
         "day_cci": 74.6,
         "hour_cci": 81.7,
@@ -32191,19 +33001,34 @@
         "atr": 0.35
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 74.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 69.9,
+        "eps_recent": [
+          0.06,
+          0.07,
+          0.03,
+          -0.02
+        ]
       },
       "history": [
         {
@@ -32786,8 +33611,8 @@
         "atr": 5.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -32799,6 +33624,21 @@
         "timing": "分批建倉",
         "note": "CCI -6.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 9203.6,
+        "eps_recent": [
+          2.28,
+          8.33,
+          1.1,
+          1.12
+        ]
       },
       "history": [
         {
@@ -33381,8 +34221,8 @@
         "atr": 9.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -33394,6 +34234,21 @@
         "timing": "分批建倉",
         "note": "CCI -225.4",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 31.4,
+        "eps_recent": [
+          3.84,
+          3.94,
+          10.04,
+          5.06
+        ]
       },
       "history": [
         {
@@ -33964,7 +34819,7 @@
         "hour_cci": 19.1,
         "day_slope": 0.1,
         "tech_score": 0,
-        "volume_status": "量能放大（1.8x）",
+        "volume_status": "量能放大(1.8x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -33976,8 +34831,8 @@
         "atr": 1.5
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -33989,6 +34844,21 @@
         "timing": "分批建倉",
         "note": "CCI -24.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 15.7,
+        "eps_recent": [
+          0.66,
+          0.96,
+          0.27,
+          0.2
+        ]
       },
       "history": [
         {
@@ -34559,7 +35429,7 @@
         "hour_cci": -105.3,
         "day_slope": -1.4,
         "tech_score": 25,
-        "volume_status": "量能放大（1.8x）",
+        "volume_status": "量能放大(1.8x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -34571,8 +35441,8 @@
         "atr": 2.61
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -34584,6 +35454,21 @@
         "timing": "分批建倉",
         "note": "CCI -159.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 41.8,
+        "eps_recent": [
+          1.17,
+          1.55,
+          1.72,
+          0.77
+        ]
       },
       "history": [
         {
@@ -35166,8 +36051,8 @@
         "atr": 2.01
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -35179,6 +36064,21 @@
         "timing": "分批建倉",
         "note": "CCI -42.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 22.2,
+        "eps_recent": [
+          0.41,
+          0.66,
+          1.73,
+          0.28
+        ]
       },
       "history": [
         {
@@ -35741,15 +36641,15 @@
       "week_cci": 277.2,
       "day_cci": 152.6,
       "hour_cci": 106.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 277.2,
         "day_cci": 152.6,
         "hour_cci": 106.0,
         "day_slope": 0.4,
         "tech_score": 100,
-        "volume_status": "量能放大（1.3x）",
+        "volume_status": "量能放大(1.3x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -35761,19 +36661,34 @@
         "atr": 0.69
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 152.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 27.7,
+        "eps_recent": [
+          0.85,
+          0.61,
+          0.49,
+          0.63
+        ]
       },
       "history": [
         {
@@ -36356,8 +37271,8 @@
         "atr": 2.69
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -36369,6 +37284,21 @@
         "timing": "分批建倉",
         "note": "CCI -181.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 22.9,
+        "eps_recent": [
+          2.73,
+          3.57,
+          4.15,
+          0.38
+        ]
       },
       "history": [
         {
@@ -36931,9 +37861,9 @@
       "week_cci": 281.8,
       "day_cci": 187.6,
       "hour_cci": 134.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 281.8,
         "day_cci": 187.6,
         "hour_cci": 134.6,
@@ -36951,19 +37881,34 @@
         "atr": 1.46
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 187.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 22.1,
+        "eps_recent": [
+          1.53,
+          1.41,
+          1.09,
+          1.24
+        ]
       },
       "history": [
         {
@@ -37546,8 +38491,8 @@
         "atr": 1.17
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -37559,6 +38504,21 @@
         "timing": "分批建倉",
         "note": "CCI 39.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 18.9,
+        "eps_recent": [
+          0.28,
+          0.56,
+          0.21,
+          -0.24
+        ]
       },
       "history": [
         {
@@ -38141,8 +39101,8 @@
         "atr": 3.31
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "❄️ 冷淡 航運（2/9 22%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "❄️ 冷淡 航運(2/9 22%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -38154,6 +39114,21 @@
         "timing": "分批建倉",
         "note": "CCI -93.6",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 45.9,
+        "eps_recent": [
+          1.6,
+          2.83,
+          2.06,
+          0.62
+        ]
       },
       "history": [
         {
@@ -38716,9 +39691,9 @@
       "week_cci": 234.1,
       "day_cci": 86.4,
       "hour_cci": 73.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 234.1,
         "day_cci": 86.4,
         "hour_cci": 73.5,
@@ -38736,19 +39711,34 @@
         "atr": 0.56
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 86.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 24.6,
+        "eps_recent": [
+          0.31,
+          0.42,
+          0.41,
+          0.37
+        ]
       },
       "history": [
         {
@@ -39311,15 +40301,15 @@
       "week_cci": 256.1,
       "day_cci": 88.1,
       "hour_cci": 71.4,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 256.1,
         "day_cci": 88.1,
         "hour_cci": 71.4,
         "day_slope": 0.1,
         "tech_score": 100,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -39331,19 +40321,34 @@
         "atr": 0.28
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 88.1",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 89.4,
+        "eps_recent": [
+          0.29,
+          0.33,
+          0.42,
+          0.3
+        ]
       },
       "history": [
         {
@@ -39906,9 +40911,9 @@
       "week_cci": 116.2,
       "day_cci": 84.2,
       "hour_cci": 95.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 116.2,
         "day_cci": 84.2,
         "hour_cci": 95.2,
@@ -39926,19 +40931,34 @@
         "atr": 0.24
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 84.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 14.4,
+        "eps_recent": [
+          0.19,
+          0.18,
+          0.16,
+          0.15
+        ]
       },
       "history": [
         {
@@ -40501,15 +41521,15 @@
       "week_cci": 247.1,
       "day_cci": 150.8,
       "hour_cci": 147.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 247.1,
         "day_cci": 150.8,
         "hour_cci": 147.0,
         "day_slope": 0.2,
         "tech_score": 100,
-        "volume_status": "量能放大（3.0x）",
+        "volume_status": "量能放大(3.0x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -40521,19 +41541,34 @@
         "atr": 0.57
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 150.8",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 61.1,
+        "eps_recent": [
+          0.38,
+          0.42,
+          0.19,
+          0.3
+        ]
       },
       "history": [
         {
@@ -41096,15 +42131,15 @@
       "week_cci": 200.3,
       "day_cci": 99.0,
       "hour_cci": 88.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 200.3,
         "day_cci": 99.0,
         "hour_cci": 88.5,
         "day_slope": 0.1,
         "tech_score": 100,
-        "volume_status": "量能放大（2.0x）",
+        "volume_status": "量能放大(2.0x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -41116,19 +42151,34 @@
         "atr": 0.31
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 99.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 21.7,
+        "eps_recent": [
+          0.23,
+          0.26,
+          0.18,
+          0.26
+        ]
       },
       "history": [
         {
@@ -41691,9 +42741,9 @@
       "week_cci": 205.6,
       "day_cci": 150.1,
       "hour_cci": 143.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 205.6,
         "day_cci": 150.1,
         "hour_cci": 143.1,
@@ -41711,19 +42761,34 @@
         "atr": 5.93
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 150.1",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": NaN,
+        "eps_recent": [
+          2.14,
+          2.74,
+          0.49,
+          3.0
+        ]
       },
       "history": [
         {
@@ -42286,9 +43351,9 @@
       "week_cci": 219.0,
       "day_cci": 164.9,
       "hour_cci": 147.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 219.0,
         "day_cci": 164.9,
         "hour_cci": 147.1,
@@ -42306,19 +43371,34 @@
         "atr": 5.25
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 164.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 28.8,
+        "eps_recent": [
+          2.22,
+          1.95,
+          0.71,
+          2.18
+        ]
       },
       "history": [
         {
@@ -42881,9 +43961,9 @@
       "week_cci": 218.0,
       "day_cci": 121.7,
       "hour_cci": 136.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 218.0,
         "day_cci": 121.7,
         "hour_cci": 136.6,
@@ -42901,19 +43981,34 @@
         "atr": 1.58
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 121.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 22,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": NaN,
+        "eps_recent": [
+          0.65,
+          0.8,
+          -0.23,
+          0.52
+        ]
       },
       "history": [
         {
@@ -43476,15 +44571,15 @@
       "week_cci": 283.1,
       "day_cci": 136.2,
       "hour_cci": 116.4,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 283.1,
         "day_cci": 136.2,
         "hour_cci": 116.4,
         "day_slope": 0.3,
         "tech_score": 100,
-        "volume_status": "量能放大（1.5x）",
+        "volume_status": "量能放大(1.5x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -43496,19 +44591,34 @@
         "atr": 0.9
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 136.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 24.8,
+        "eps_recent": [
+          0.5,
+          0.58,
+          0.49,
+          0.55
+        ]
       },
       "history": [
         {
@@ -44071,9 +45181,9 @@
       "week_cci": 147.3,
       "day_cci": 145.9,
       "hour_cci": 131.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 147.3,
         "day_cci": 145.9,
         "hour_cci": 131.1,
@@ -44091,19 +45201,34 @@
         "atr": 2.54
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 145.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 227.3,
+        "eps_recent": [
+          0.74,
+          0.78,
+          0.63,
+          0.59
+        ]
       },
       "history": [
         {
@@ -44666,15 +45791,15 @@
       "week_cci": 259.4,
       "day_cci": 143.5,
       "hour_cci": 128.3,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 259.4,
         "day_cci": 143.5,
         "hour_cci": 128.3,
         "day_slope": 0.4,
         "tech_score": 100,
-        "volume_status": "量能放大（1.6x）",
+        "volume_status": "量能放大(1.6x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -44686,19 +45811,34 @@
         "atr": 1.29
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 143.5",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 22.3,
+        "eps_recent": [
+          0.45,
+          0.68,
+          0.69,
+          0.54
+        ]
       },
       "history": [
         {
@@ -45261,9 +46401,9 @@
       "week_cci": 250.3,
       "day_cci": 125.3,
       "hour_cci": 94.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 250.3,
         "day_cci": 125.3,
         "hour_cci": 94.8,
@@ -45281,19 +46421,34 @@
         "atr": 1.52
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 125.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 117.9,
+        "eps_recent": [
+          0.61,
+          0.59,
+          0.38,
+          0.33
+        ]
       },
       "history": [
         {
@@ -45856,15 +47011,15 @@
       "week_cci": 308.6,
       "day_cci": 217.4,
       "hour_cci": 190.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 308.6,
         "day_cci": 217.4,
         "hour_cci": 190.1,
         "day_slope": 0.8,
         "tech_score": 100,
-        "volume_status": "量能放大（2.6x）",
+        "volume_status": "量能放大(2.6x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -45876,19 +47031,34 @@
         "atr": 1.39
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 217.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 82.7,
+        "eps_recent": [
+          0.4,
+          0.58,
+          0.42,
+          0.57
+        ]
       },
       "history": [
         {
@@ -46451,9 +47621,9 @@
       "week_cci": 187.5,
       "day_cci": 134.2,
       "hour_cci": 102.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 187.5,
         "day_cci": 134.2,
         "hour_cci": 102.6,
@@ -46471,19 +47641,34 @@
         "atr": 3.06
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 134.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 76.1,
+        "eps_recent": [
+          1.02,
+          1.28,
+          0.76,
+          1.02
+        ]
       },
       "history": [
         {
@@ -47046,9 +48231,9 @@
       "week_cci": 293.3,
       "day_cci": 126.7,
       "hour_cci": 119.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 293.3,
         "day_cci": 126.7,
         "hour_cci": 119.9,
@@ -47066,19 +48251,34 @@
         "atr": 0.79
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 126.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 26.9,
+        "eps_recent": [
+          0.36,
+          0.54,
+          0.46,
+          0.51
+        ]
       },
       "history": [
         {
@@ -47641,9 +48841,9 @@
       "week_cci": 182.1,
       "day_cci": 104.8,
       "hour_cci": 79.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 182.1,
         "day_cci": 104.8,
         "hour_cci": 79.9,
@@ -47661,19 +48861,34 @@
         "atr": 0.53
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 貿易（1/3 33%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 貿易(1/3 33%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 104.8",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 0.9,
+        "eps_recent": [
+          0.39,
+          0.44,
+          0.49,
+          0.29
+        ]
       },
       "history": [
         {
@@ -48256,8 +49471,8 @@
         "atr": 0.36
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 貿易（1/3 33%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 貿易(1/3 33%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -48269,6 +49484,21 @@
         "timing": "分批建倉",
         "note": "CCI -169.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 22,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -4.1,
+        "eps_recent": [
+          0.32,
+          0.16,
+          0.06,
+          -0.14
+        ]
       },
       "history": [
         {
@@ -48851,8 +50081,8 @@
         "atr": 8.75
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 貿易（1/3 33%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 貿易(1/3 33%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -48864,6 +50094,21 @@
         "timing": "分批建倉",
         "note": "CCI -70.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.3,
+        "eps_recent": [
+          2.97,
+          2.22,
+          2.85,
+          2.92
+        ]
       },
       "history": [
         {
@@ -49426,9 +50671,9 @@
       "week_cci": 182.8,
       "day_cci": 177.6,
       "hour_cci": 126.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 182.8,
         "day_cci": 177.6,
         "hour_cci": 126.0,
@@ -49446,19 +50691,34 @@
         "atr": 326.07
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 177.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 41.8,
+        "eps_recent": [
+          46.63,
+          50.35,
+          53.05,
+          7.73
+        ]
       },
       "history": [
         {
@@ -50021,15 +51281,15 @@
       "week_cci": 112.1,
       "day_cci": 189.0,
       "hour_cci": 157.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 112.1,
         "day_cci": 189.0,
         "hour_cci": 157.5,
         "day_slope": 5.0,
         "tech_score": 100,
-        "volume_status": "量能放大（1.7x）",
+        "volume_status": "量能放大(1.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -50041,19 +51301,34 @@
         "atr": 18.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 189.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 9.4,
+        "eps_recent": [
+          6.19,
+          6.07,
+          6.01,
+          6.14
+        ]
       },
       "history": [
         {
@@ -50616,9 +51891,9 @@
       "week_cci": 77.1,
       "day_cci": 39.4,
       "hour_cci": 75.4,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 77.1,
         "day_cci": 39.4,
         "hour_cci": 75.4,
@@ -50636,19 +51911,34 @@
         "atr": 67.5
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 39.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 32.4,
+        "eps_recent": [
+          3.28,
+          2.32,
+          1.44,
+          0.02
+        ]
       },
       "history": [
         {
@@ -51211,9 +52501,9 @@
       "week_cci": 184.5,
       "day_cci": 60.0,
       "hour_cci": 27.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 184.5,
         "day_cci": 60.0,
         "hour_cci": 27.1,
@@ -51231,19 +52521,34 @@
         "atr": 1.96
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 60.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 3.9,
+        "eps_recent": [
+          1.37,
+          1.28,
+          1.19,
+          1.09
+        ]
       },
       "history": [
         {
@@ -51826,8 +53131,8 @@
         "atr": 10.04
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -51839,6 +53144,21 @@
         "timing": "分批建倉",
         "note": "CCI -41.2",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 39.2,
+        "eps_recent": [
+          3.06,
+          2.61,
+          2.36,
+          2.2
+        ]
       },
       "history": [
         {
@@ -52401,9 +53721,9 @@
       "week_cci": 165.3,
       "day_cci": 96.4,
       "hour_cci": 89.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 165.3,
         "day_cci": 96.4,
         "hour_cci": 89.9,
@@ -52421,19 +53741,34 @@
         "atr": 56.86
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 96.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 30.2,
+        "eps_recent": [
+          7.9,
+          10.43,
+          12.54,
+          2.13
+        ]
       },
       "history": [
         {
@@ -52996,15 +54331,15 @@
       "week_cci": 150.8,
       "day_cci": 154.3,
       "hour_cci": 176.7,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 150.8,
         "day_cci": 154.3,
         "hour_cci": 176.7,
         "day_slope": 2.1,
         "tech_score": 100,
-        "volume_status": "量能放大（1.7x）",
+        "volume_status": "量能放大(1.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -53016,19 +54351,34 @@
         "atr": 4.82
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 154.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 35,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 10.3,
+        "eps_recent": [
+          0.2,
+          0.0,
+          0.01,
+          -0.1
+        ]
       },
       "history": [
         {
@@ -53611,8 +54961,8 @@
         "atr": 134.29
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -53624,6 +54974,21 @@
         "timing": "分批建倉",
         "note": "CCI -29.7",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 9.0,
+        "eps_recent": [
+          21.37,
+          22.53,
+          20.71,
+          6.69
+        ]
       },
       "history": [
         {
@@ -54194,7 +55559,7 @@
         "hour_cci": 103.3,
         "day_slope": 0.1,
         "tech_score": 50,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -54206,8 +55571,8 @@
         "atr": 5.0
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -54219,6 +55584,21 @@
         "timing": "分批建倉",
         "note": "CCI -17.0",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 82.9,
+        "eps_recent": [
+          3.3,
+          1.7,
+          1.89,
+          1.05
+        ]
       },
       "history": [
         {
@@ -54781,15 +56161,15 @@
       "week_cci": 93.7,
       "day_cci": 75.2,
       "hour_cci": 94.1,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 93.7,
         "day_cci": 75.2,
         "hour_cci": 94.1,
         "day_slope": 6.5,
         "tech_score": 100,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -54801,19 +56181,34 @@
         "atr": 32.93
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 75.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 28.6,
+        "eps_recent": [
+          3.24,
+          3.38,
+          2.5,
+          1.74
+        ]
       },
       "history": [
         {
@@ -55376,15 +56771,15 @@
       "week_cci": 235.6,
       "day_cci": 61.3,
       "hour_cci": 28.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 235.6,
         "day_cci": 61.3,
         "hour_cci": 28.6,
         "day_slope": 0.7,
         "tech_score": 100,
-        "volume_status": "量能放大（3.4x）",
+        "volume_status": "量能放大(3.4x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -55396,19 +56791,34 @@
         "atr": 3.31
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 61.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 13.7,
+        "eps_recent": [
+          1.03,
+          1.02,
+          0.96,
+          0.94
+        ]
       },
       "history": [
         {
@@ -55991,8 +57401,8 @@
         "atr": 5.62
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -56004,6 +57414,21 @@
         "timing": "分批建倉",
         "note": "CCI -108.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 12.0,
+        "eps_recent": [
+          0.58,
+          1.97,
+          1.69,
+          0.11
+        ]
       },
       "history": [
         {
@@ -56566,15 +57991,15 @@
       "week_cci": 84.8,
       "day_cci": 129.3,
       "hour_cci": 147.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 84.8,
         "day_cci": 129.3,
         "hour_cci": 147.0,
         "day_slope": 1.3,
         "tech_score": 100,
-        "volume_status": "量能放大（1.7x）",
+        "volume_status": "量能放大(1.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -56586,19 +58011,34 @@
         "atr": 7.36
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 129.3",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 0.1,
+        "eps_recent": [
+          1.86,
+          1.57,
+          2.2,
+          2.62
+        ]
       },
       "history": [
         {
@@ -57181,8 +58621,8 @@
         "atr": 48.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -57194,6 +58634,21 @@
         "timing": "分批建倉",
         "note": "CCI -31.9",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 1.2,
+        "eps_recent": [
+          6.77,
+          6.88,
+          10.45,
+          8.95
+        ]
       },
       "history": [
         {
@@ -57756,9 +59211,9 @@
       "week_cci": 58.7,
       "day_cci": 2.0,
       "hour_cci": 141.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 58.7,
         "day_cci": 2.0,
         "hour_cci": 141.2,
@@ -57776,19 +59231,34 @@
         "atr": 78.21
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "40%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "40%",
         "timing": "分批建倉",
         "note": "CCI 2.0",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 30,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -19.4,
+        "eps_recent": [
+          24.85,
+          20.08,
+          21.21,
+          15.02
+        ]
       },
       "history": [
         {
@@ -58351,9 +59821,9 @@
       "week_cci": 149.9,
       "day_cci": 112.5,
       "hour_cci": 90.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 149.9,
         "day_cci": 112.5,
         "hour_cci": 90.2,
@@ -58371,19 +59841,34 @@
         "atr": 11.82
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 112.5",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.7,
+        "eps_recent": [
+          1.83,
+          2.64,
+          1.71,
+          1.17
+        ]
       },
       "history": [
         {
@@ -58966,8 +60451,8 @@
         "atr": 3.35
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -58979,6 +60464,21 @@
         "timing": "分批建倉",
         "note": "CCI -45.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 191.6,
+        "eps_recent": [
+          1.76,
+          5.71,
+          2.32,
+          -0.34
+        ]
       },
       "history": [
         {
@@ -59541,9 +61041,9 @@
       "week_cci": 175.6,
       "day_cci": 90.8,
       "hour_cci": 89.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 175.6,
         "day_cci": 90.8,
         "hour_cci": 89.5,
@@ -59561,19 +61061,34 @@
         "atr": 2.86
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 營建（6/9 67%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 營建(6/9 67%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 90.8",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 452.6,
+        "eps_recent": [
+          0.19,
+          3.76,
+          1.28,
+          0.09
+        ]
       },
       "history": [
         {
@@ -60156,8 +61671,8 @@
         "atr": 4.5
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -60169,6 +61684,21 @@
         "timing": "分批建倉",
         "note": "CCI -51.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 1.3,
+        "eps_recent": [
+          2.79,
+          2.65,
+          2.52,
+          3.28
+        ]
       },
       "history": [
         {
@@ -60731,9 +62261,9 @@
       "week_cci": 240.7,
       "day_cci": 78.1,
       "hour_cci": 57.9,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 240.7,
         "day_cci": 78.1,
         "hour_cci": 57.9,
@@ -60751,19 +62281,34 @@
         "atr": 0.97
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 78.1",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 5.3,
+        "eps_recent": [
+          0.5,
+          0.95,
+          0.65,
+          0.96
+        ]
       },
       "history": [
         {
@@ -61326,9 +62871,9 @@
       "week_cci": 207.0,
       "day_cci": 141.7,
       "hour_cci": 115.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 207.0,
         "day_cci": 141.7,
         "hour_cci": 115.8,
@@ -61346,19 +62891,34 @@
         "atr": 0.47
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 金融（17/18 94%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 金融(17/18 94%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 141.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 17.5,
+        "eps_recent": [
+          0.33,
+          0.38,
+          0.33,
+          0.32
+        ]
       },
       "history": [
         {
@@ -61921,9 +63481,9 @@
       "week_cci": 141.2,
       "day_cci": 107.2,
       "hour_cci": 71.8,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 141.2,
         "day_cci": 107.2,
         "hour_cci": 71.8,
@@ -61941,19 +63501,34 @@
         "atr": 32.07
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 107.2",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 64.9,
+        "eps_recent": [
+          5.08,
+          3.5,
+          5.57,
+          1.95
+        ]
       },
       "history": [
         {
@@ -62516,15 +64091,15 @@
       "week_cci": 117.3,
       "day_cci": 85.7,
       "hour_cci": 110.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 117.3,
         "day_cci": 85.7,
         "hour_cci": 110.2,
         "day_slope": 3.8,
         "tech_score": 100,
-        "volume_status": "量能放大（1.8x）",
+        "volume_status": "量能放大(1.8x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -62536,19 +64111,34 @@
         "atr": 29.11
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 85.7",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 30.2,
+        "eps_recent": [
+          2.5,
+          2.52,
+          2.08,
+          1.3
+        ]
       },
       "history": [
         {
@@ -63131,8 +64721,8 @@
         "atr": 13.54
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -63144,6 +64734,21 @@
         "timing": "分批建倉",
         "note": "CCI -7.1",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 40,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 2.4,
+        "eps_recent": [
+          2.17,
+          2.49,
+          2.38,
+          1.64
+        ]
       },
       "history": [
         {
@@ -63706,9 +65311,9 @@
       "week_cci": 102.3,
       "day_cci": 109.9,
       "hour_cci": 155.2,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 102.3,
         "day_cci": 109.9,
         "hour_cci": 155.2,
@@ -63726,19 +65331,34 @@
         "atr": 40.89
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 109.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 31.6,
+        "eps_recent": [
+          1.98,
+          2.09,
+          1.76,
+          1.63
+        ]
       },
       "history": [
         {
@@ -64321,8 +65941,8 @@
         "atr": 2.94
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -64334,6 +65954,21 @@
         "timing": "分批建倉",
         "note": "CCI -47.9",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 0,
+        "label": "差",
+        "star": "⚠️",
+        "desc": "體質差,建議跳過",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": -40.2,
+        "eps_recent": [
+          -0.2,
+          -4.34,
+          -1.21,
+          -0.46
+        ]
       },
       "history": [
         {
@@ -64904,7 +66539,7 @@
         "hour_cci": 136.0,
         "day_slope": 0.1,
         "tech_score": 75,
-        "volume_status": "量能放大（1.4x）",
+        "volume_status": "量能放大(1.4x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -64916,8 +66551,8 @@
         "atr": 2.07
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -64929,6 +66564,21 @@
         "timing": "分批建倉",
         "note": "CCI 18.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 26.9,
+        "eps_recent": [
+          2.14,
+          0.54,
+          0.9,
+          -0.79
+        ]
       },
       "history": [
         {
@@ -65511,8 +67161,8 @@
         "atr": 301.43
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -65524,6 +67174,21 @@
         "timing": "分批建倉",
         "note": "CCI -23.4",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 18.2,
+        "eps_recent": [
+          75.95,
+          74.21,
+          82.92,
+          65.23
+        ]
       },
       "history": [
         {
@@ -66086,15 +67751,15 @@
       "week_cci": 190.8,
       "day_cci": 123.4,
       "hour_cci": 91.0,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 190.8,
         "day_cci": 123.4,
         "hour_cci": 91.0,
         "day_slope": 2.3,
         "tech_score": 100,
-        "volume_status": "量能放大（1.7x）",
+        "volume_status": "量能放大(1.7x)",
         "obv_trend": "上升趨勢",
         "adx_status": "—"
       },
@@ -66106,19 +67771,34 @@
         "atr": 9.79
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 123.4",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 32.0,
+        "eps_recent": [
+          6.96,
+          7.9,
+          3.49,
+          2.27
+        ]
       },
       "history": [
         {
@@ -66681,9 +68361,9 @@
       "week_cci": 87.0,
       "day_cci": 115.6,
       "hour_cci": 123.6,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 87.0,
         "day_cci": 115.6,
         "hour_cci": 123.6,
@@ -66701,19 +68381,34 @@
         "atr": 5.08
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
-        "suggested_position": "60%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
+        "suggested_position": "45%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "60%",
+        "target_position": "45%",
         "timing": "分批建倉",
         "note": "CCI 115.6",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 21.0,
+        "eps_recent": [
+          0.64,
+          0.4,
+          0.14,
+          0.34
+        ]
       },
       "history": [
         {
@@ -67296,8 +68991,8 @@
         "atr": 5.38
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -67309,6 +69004,21 @@
         "timing": "分批建倉",
         "note": "CCI -11.0",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 27,
+        "label": "偏弱",
+        "star": "⭐",
+        "desc": "體質偏弱,小心",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 58.9,
+        "eps_recent": [
+          3.36,
+          -0.15,
+          -0.65,
+          -0.8
+        ]
       },
       "history": [
         {
@@ -67879,7 +69589,7 @@
         "hour_cci": -141.8,
         "day_slope": -0.7,
         "tech_score": 0,
-        "volume_status": "量能放大（1.3x）",
+        "volume_status": "量能放大(1.3x)",
         "obv_trend": "下降趨勢",
         "adx_status": "—"
       },
@@ -67891,8 +69601,8 @@
         "atr": 2.22
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "賣出",
         "signal_date": "2026-06-18",
@@ -67904,6 +69614,21 @@
         "timing": "分批建倉",
         "note": "CCI -197.5",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": 50,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 10.1,
+        "eps_recent": [
+          0.6,
+          0.8,
+          0.29,
+          1.33
+        ]
       },
       "history": [
         {
@@ -68466,9 +70191,9 @@
       "week_cci": 53.2,
       "day_cci": 56.9,
       "hour_cci": 60.5,
-      "resonance": "雙層共振（最強買點）",
+      "resonance": "雙層共振(最強買點)",
       "strategy": {
-        "resonance": "雙層共振（最強買點）",
+        "resonance": "雙層共振(最強買點)",
         "week_cci": 53.2,
         "day_cci": 56.9,
         "hour_cci": 60.5,
@@ -68486,19 +70211,34 @@
         "atr": 65.86
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🔥 熱門 電子（23/42 55%）",
-        "suggested_position": "80%",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🔥 熱門 電子(23/42 55%)",
+        "suggested_position": "60%",
         "signal": "買入",
         "signal_date": "2026-06-18",
         "can_entry": true
       },
       "action_advice": {
         "action": "分批進場",
-        "target_position": "80%",
+        "target_position": "60%",
         "timing": "分批建倉",
         "note": "CCI 56.9",
         "urgency": "分批"
+      },
+      "health": {
+        "score": 42,
+        "label": "普通",
+        "star": "⭐⭐",
+        "desc": "體質普通",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": 35.8,
+        "eps_recent": [
+          2.03,
+          1.86,
+          1.12,
+          -0.29
+        ]
       },
       "history": [
         {
@@ -69081,8 +70821,8 @@
         "atr": 0.98
       },
       "market_env": {
-        "market_status": "攻擊（指標斜率 +8.4）",
-        "group_status": "🌡 升溫 其他（4/10 40%）",
+        "market_status": "攻擊(指標斜率 +8.4)",
+        "group_status": "🌡 升溫 其他(4/10 40%)",
         "suggested_position": "0%",
         "signal": "觀望",
         "signal_date": "2026-06-18",
@@ -69094,6 +70834,21 @@
         "timing": "分批建倉",
         "note": "CCI -54.8",
         "urgency": "觀望"
+      },
+      "health": {
+        "score": null,
+        "label": "N/A",
+        "star": "⚪",
+        "desc": "資料不足",
+        "roe": null,
+        "debt_ratio": null,
+        "revenue_yoy": null,
+        "eps_recent": [
+          null,
+          null,
+          null,
+          null
+        ]
       },
       "history": [
         {
