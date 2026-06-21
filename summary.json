@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-21 15:14",
+  "update_time": "2026-06-21 18:02",
   "top_5": [
     {
       "code": "4961",
@@ -89,6 +89,11 @@
           -1.36,
           0.0
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧2季,最新轉盈 +0.1"
       },
       "history": [
         {
@@ -700,6 +705,11 @@
           0.88
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -1309,6 +1319,11 @@
           0.16,
           0.05
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +0.2"
       },
       "history": [
         {
@@ -1920,6 +1935,11 @@
           0.06
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -2529,6 +2549,11 @@
           0.93,
           0.68
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -3140,6 +3165,11 @@
           0.97
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -3749,6 +3779,11 @@
           -0.09,
           -1.04
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧3季,最新轉盈 +0.51"
       },
       "history": [
         {
@@ -4360,6 +4395,11 @@
           -0.52
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +1.8"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -4969,6 +5009,11 @@
           0.3,
           -1.16
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧2季,最新轉盈 +1.07"
       },
       "history": [
         {
@@ -5580,6 +5625,11 @@
           1.71
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -6189,6 +6239,11 @@
           0.75,
           0.69
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -6800,6 +6855,11 @@
           1.9
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -7409,6 +7469,11 @@
           10.5,
           10.19
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -8020,6 +8085,11 @@
           -0.12
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -8629,6 +8699,11 @@
           1.0,
           0.42
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +179.0%,最新 +1.17"
       },
       "history": [
         {
@@ -9240,6 +9315,11 @@
           0.38
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +332.0%,最新 +1.64"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -9849,6 +9929,11 @@
           0.5,
           0.28
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -10460,6 +10545,11 @@
           1.28
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -11069,6 +11159,11 @@
           1.55,
           1.51
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -11680,6 +11775,11 @@
           7.1
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -12289,6 +12389,11 @@
           2.05,
           1.39
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -12900,6 +13005,11 @@
           0.71
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -13509,6 +13619,11 @@
           7.16,
           5.37
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -14120,6 +14235,11 @@
           0.2
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -14729,6 +14849,11 @@
           4.15,
           3.19
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -15340,6 +15465,11 @@
           0.11
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -15949,6 +16079,11 @@
           3.1,
           9.74
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -16560,6 +16695,11 @@
           15.36
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -17169,6 +17309,11 @@
           -0.47,
           -0.69
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧3季,最新轉盈 +0.9"
       },
       "history": [
         {
@@ -17780,6 +17925,11 @@
           -0.29
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +2.25"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -18389,6 +18539,11 @@
           1.54,
           0.79
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +124.0%,最新 +1.77"
       },
       "history": [
         {
@@ -19000,6 +19155,11 @@
           -0.23
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +1.22"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -19609,6 +19769,11 @@
           0.37,
           0.36
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -20220,6 +20385,11 @@
           0.61
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -20829,6 +20999,11 @@
           14.21,
           13.2
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -21440,6 +21615,11 @@
           4.63
         ]
       },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +133.1%,EPS +9.12"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -22049,6 +22229,11 @@
           4.56,
           4.55
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -22660,6 +22845,11 @@
           7.62
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -23269,6 +23459,11 @@
           4.26,
           4.37
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +94.4%,EPS +5.5"
       },
       "history": [
         {
@@ -23880,6 +24075,11 @@
           2.96
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -24489,6 +24689,11 @@
           1.29,
           0.73
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -25100,6 +25305,11 @@
           2.3
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -25709,6 +25919,11 @@
           0.5,
           -1.32
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +8.41"
       },
       "history": [
         {
@@ -26320,6 +26535,11 @@
           1.31
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -26929,6 +27149,11 @@
           -0.11,
           -0.07
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -27540,6 +27765,11 @@
           0.15
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -28149,6 +28379,11 @@
           15.84,
           17.5
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -28760,6 +28995,11 @@
           1.24
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -29369,6 +29609,11 @@
           4.62,
           -1.6
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +2.63"
       },
       "history": [
         {
@@ -29980,6 +30225,11 @@
           0.1
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -30589,6 +30839,11 @@
           0.09,
           0.1
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +57.1%,EPS +0.16"
       },
       "history": [
         {
@@ -31200,6 +31455,11 @@
           0.46
         ]
       },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +52.3%,EPS +0.52"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -31809,6 +32069,11 @@
           0.72,
           0.24
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +379.0%,最新 +1.15"
       },
       "history": [
         {
@@ -32420,6 +32685,11 @@
           2.98
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -33029,6 +33299,11 @@
           0.03,
           -0.02
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +69.9%,EPS +0.06"
       },
       "history": [
         {
@@ -33640,6 +33915,11 @@
           1.12
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +104.0%,最新 +2.28"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -34249,6 +34529,11 @@
           10.04,
           5.06
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -34860,6 +35145,11 @@
           0.2
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -35469,6 +35759,11 @@
           1.72,
           0.77
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -36080,6 +36375,11 @@
           0.28
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -36689,6 +36989,11 @@
           0.49,
           0.63
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -37300,6 +37605,11 @@
           0.38
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +618.0%,最新 +2.73"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -37909,6 +38219,11 @@
           1.09,
           1.24
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -38520,6 +38835,11 @@
           -0.24
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +0.28"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -39129,6 +39449,11 @@
           2.06,
           0.62
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +158.0%,最新 +1.6"
       },
       "history": [
         {
@@ -39740,6 +40065,11 @@
           0.37
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -40349,6 +40679,11 @@
           0.42,
           0.3
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +89.4%,EPS +0.29"
       },
       "history": [
         {
@@ -40960,6 +41295,11 @@
           0.15
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -41569,6 +41909,11 @@
           0.19,
           0.3
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +61.1%,EPS +0.38"
       },
       "history": [
         {
@@ -42180,6 +42525,11 @@
           0.26
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -42789,6 +43139,11 @@
           0.49,
           3.0
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -43400,6 +43755,11 @@
           2.18
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -44009,6 +44369,11 @@
           -0.23,
           0.52
         ]
+      },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +0.65"
       },
       "history": [
         {
@@ -44620,6 +44985,11 @@
           0.55
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -45229,6 +45599,11 @@
           0.63,
           0.59
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +227.3%,EPS +0.74"
       },
       "history": [
         {
@@ -45840,6 +46215,11 @@
           0.54
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -46449,6 +46829,11 @@
           0.38,
           0.33
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +117.9%,EPS +0.61"
       },
       "history": [
         {
@@ -47060,6 +47445,11 @@
           0.57
         ]
       },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +82.7%,EPS +0.4"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -47669,6 +48059,11 @@
           0.76,
           1.02
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +76.1%,EPS +1.02"
       },
       "history": [
         {
@@ -48280,6 +48675,11 @@
           0.51
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -48889,6 +49289,11 @@
           0.49,
           0.29
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -49500,6 +49905,11 @@
           -0.14
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +0.32"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -50109,6 +50519,11 @@
           2.85,
           2.92
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -50720,6 +51135,11 @@
           7.73
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +503.0%,最新 +46.63"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -51329,6 +51749,11 @@
           6.01,
           6.14
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -51940,6 +52365,11 @@
           0.02
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +16300.0%,最新 +3.28"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -52549,6 +52979,11 @@
           1.19,
           1.09
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -53160,6 +53595,11 @@
           2.2
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -53769,6 +54209,11 @@
           12.54,
           2.13
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +271.0%,最新 +7.9"
       },
       "history": [
         {
@@ -54380,6 +54825,11 @@
           -0.1
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +0.2"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -54989,6 +55439,11 @@
           20.71,
           6.69
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +219.0%,最新 +21.37"
       },
       "history": [
         {
@@ -55600,6 +56055,11 @@
           1.05
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +214.0%,最新 +3.3"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -56209,6 +56669,11 @@
           2.5,
           1.74
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -56820,6 +57285,11 @@
           0.94
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -57429,6 +57899,11 @@
           1.69,
           0.11
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -58040,6 +58515,11 @@
           2.62
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -58649,6 +59129,11 @@
           10.45,
           8.95
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -59260,6 +59745,11 @@
           15.02
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -59869,6 +60359,11 @@
           1.71,
           1.17
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -60480,6 +60975,11 @@
           -0.34
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +1.76"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -61089,6 +61589,11 @@
           1.28,
           0.09
         ]
+      },
+      "turnaround": {
+        "type": "營收動能",
+        "icon": "🚀",
+        "note": "營收年增 +452.6%,EPS +0.19"
       },
       "history": [
         {
@@ -61700,6 +62205,11 @@
           3.28
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -62309,6 +62819,11 @@
           0.65,
           0.96
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -62920,6 +63435,11 @@
           0.32
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -63529,6 +64049,11 @@
           5.57,
           1.95
         ]
+      },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +161.0%,最新 +5.08"
       },
       "history": [
         {
@@ -64140,6 +64665,11 @@
           1.3
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -64749,6 +65279,11 @@
           2.38,
           1.64
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -65360,6 +65895,11 @@
           1.63
         ]
       },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -65969,6 +66509,11 @@
           -1.21,
           -0.46
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -66580,6 +67125,11 @@
           -0.79
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +2.14"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -67189,6 +67739,11 @@
           82.92,
           65.23
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -67800,6 +68355,11 @@
           2.27
         ]
       },
+      "turnaround": {
+        "type": "獲利爆發",
+        "icon": "📈",
+        "note": "EPS 同期成長 +207.0%,最新 +6.96"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -68409,6 +68969,11 @@
           0.14,
           0.34
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -69020,6 +69585,11 @@
           -0.8
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧3季,最新轉盈 +3.36"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -69629,6 +70199,11 @@
           0.29,
           1.33
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
@@ -70240,6 +70815,11 @@
           -0.29
         ]
       },
+      "turnaround": {
+        "type": "由虧轉盈",
+        "icon": "🔄",
+        "note": "近4季虧1季,最新轉盈 +2.03"
+      },
       "history": [
         {
           "date": "2026-04-09",
@@ -70849,6 +71429,11 @@
           null,
           null
         ]
+      },
+      "turnaround": {
+        "type": null,
+        "icon": null,
+        "note": null
       },
       "history": [
         {
