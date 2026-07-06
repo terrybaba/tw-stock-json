@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-06 13:25",
+  "update_time": "2026-07-06 13:46",
   "top_5": [
     {
       "code": "4961",
@@ -34,32 +34,8 @@
   ],
   "today_picks": [
     {
-      "code": "2049",
-      "name": "上銀",
-      "score": 87.5,
-      "group": "鋼鐵",
-      "health_star": "⭐⭐",
-      "turnaround_icon": "📈"
-    },
-    {
-      "code": "2347",
-      "name": "聯強",
-      "score": 87.5,
-      "group": "電子",
-      "health_star": "⭐⭐",
-      "turnaround_icon": "📈"
-    },
-    {
       "code": "2515",
       "name": "中工",
-      "score": 87.5,
-      "group": "營建",
-      "health_star": "⭐⭐",
-      "turnaround_icon": "🚀"
-    },
-    {
-      "code": "2520",
-      "name": "冠德",
       "score": 87.5,
       "group": "營建",
       "health_star": "⭐⭐",
@@ -72,6 +48,30 @@
       "group": "金融",
       "health_star": "⭐⭐",
       "turnaround_icon": "🚀"
+    },
+    {
+      "code": "2049",
+      "name": "上銀",
+      "score": 87.5,
+      "group": "鋼鐵",
+      "health_star": "⭐⭐",
+      "turnaround_icon": "📈"
+    },
+    {
+      "code": "2890",
+      "name": "永豐金",
+      "score": 87.5,
+      "group": "金融",
+      "health_star": "⭐⭐",
+      "turnaround_icon": "🚀"
+    },
+    {
+      "code": "6196",
+      "name": "帆宣",
+      "score": 87.5,
+      "group": "其他",
+      "health_star": "⭐⭐",
+      "turnaround_icon": "📈"
     }
   ],
   "all_stocks": {
